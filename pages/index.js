@@ -110,17 +110,15 @@ export default function Home() {
 
       <div className={classes.inner}>
         <Title className={classes.title}>
-          Self Sovereign{" "}
+          Health{" "}
           <Text component="span" color={theme.primaryColor} inherit>
-            Health Records.
+            dataX.
           </Text>{" "}
         </Title>
 
         <Container p={0} size={600}>
           <Text size="lg" color="dimmed" className={classes.description}>
-            SSHR enables you to Own and Safely Share your Personal and Medical
-            data. Data sharing is encrypted so you do not have to worry about
-            your data getting public.
+          A decentralized science Platform that allows individuals to monetize their personal health data while ensuring data privacy, transparency, and fair compensation.
           </Text>
         </Container>
 
