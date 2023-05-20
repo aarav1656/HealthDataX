@@ -1,6 +1,6 @@
-# DeSci Platform
+# HealthDataX
 
-The DeSci Platform is a decentralized science platform that allows individuals to monetize their personal health data while ensuring data privacy, transparency, and fair compensation. Researchers can securely purchase data from contributors, enabling groundbreaking research and discoveries in various fields of science.
+The HealthDataX Platform is a decentralized science platform that allows individuals to monetize their personal health data while ensuring data privacy, transparency, and fair compensation. Researchers can securely purchase data from contributors, enabling groundbreaking research and discoveries in various fields of science.
 
 ![Image Description](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gC-EBGTTdAOZXBEgAvkVZmIN115BC2UaGGtYBMD6vjqlHVMFdVqpdrUybWvx2UoBK1M&usqp=CAU)
 ## Features
